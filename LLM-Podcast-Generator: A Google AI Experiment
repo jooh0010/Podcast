@@ -1,0 +1,30 @@
+# AI-Powered Podcast Generation with Google LLM
+
+Este projeto explora a aplicação de Modelos de Linguagem de Grande Porte (LLM) do Google para a criação automatizada de conteúdo de podcast. O objetivo foi testar a viabilidade de gerar diálogos coesos entre "âncoras" virtuais a partir de inputs definidos.
+
+## Visão Geral
+
+Durante a pesquisa para este projeto, foi identificada uma abordagem utilizando a tecnologia LLM do Google para a produção do conteúdo sonoro. O fluxo de trabalho implementado buscou simular a criação de um episódio de podcast com dois apresentadores.
+
+## Metodologia
+
+O processo de geração do podcast envolveu as seguintes etapas:
+
+1.  **Definição de Prompts Estruturais:**
+    *   Foram fornecidas à IA instruções para os segmentos de abertura e encerramento do podcast.
+    *   Isso incluiu o estabelecimento do tom geral e da estrutura básica do episódio.
+
+2.  **Input de Conteúdo Central:**
+    *   O modelo foi alimentado com os temas principais, informações relevantes e pontos-chave que deveriam ser abordados durante o episódio.
+
+3.  **Geração de Diálogo pela IA:**
+    *   A IA processou os inputs e simulou uma conversa entre dois "âncoras" virtuais.
+    *   O diálogo resultante desenvolveu os tópicos fornecidos, buscando manter a coesão e um fluxo informativo.
+
+## Conclusão do Experimento
+
+Este experimento demonstra a capacidade dos LLMs do Google em auxiliar na automação de tarefas da produção de podcasts, como:
+*   Roteirização inicial de segmentos.
+*   Criação de diálogos baseados em temas específicos.
+
+Abre-se, assim, um campo para explorar mais a fundo o uso de IA na criação de conteúdo em áudio, otimização de fluxos de produção e personalização de narrativas.
